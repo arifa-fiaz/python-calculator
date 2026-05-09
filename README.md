@@ -1,2 +1,2 @@
 # python-calculator
-A Simple Calculator Build In Python
+This is a basic calculator built in Python that can add, subtract, multiply, and divide.
